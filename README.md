@@ -8,7 +8,7 @@ Deep learning playground with TensorFlow
 * 1 July 2021 - Created 02 notebook on NN Classification with TensorFlow.
 * 10 July 2021 - 00 notebook uploaded on GitHub.
 * 17 July 2021 - 01 notebook uploaded on GitHub.
-* 18 July 2021 - Added Extra Curricular and Exercises in all notebooks, 02_Neural_Network_Classification_with_TensorFlow notebook uploaded and started 03_convolutional_neural_networks_in_tensorflow notebook.
+* 18 July 2021 - Added Extra Curricular and Exercises in all notebooks, 02_Neural_Network_Classification_with_TensorFlow notebook uploaded and started work on 03_convolutional_neural_networks_in_tensorflow notebook.
 
 
 ### 🛠 00. TensorFlow Fundamentals Exercises
